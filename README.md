@@ -2,10 +2,10 @@
 
 ## About The Project
 
-Rely Wallet is a mobile wallet that allows you to store, send, and receive tokens on any EVM compatible blockchain. Rely also supports Solana. You can use Rely to connect to any dApp on Ethereum or Solana.
+Rely Wallet is a mobile wallet that allows you to store, send, and receive tokens on any EVM compatible blockchain. Rely also supports Solana. You can use Rely to connect to any dApp on Ethereum.
 
-- Send and receive tokens on any EVM compatible blockchain and Solana.
-- Connect to any dApp on Ethereum or Solana.
+- Send and receive tokens on any EVM compatible blockchains.
+- Connect to any dApp on Ethereum.
 - View your transaction history on various blockchains.
 - View and manage your NFTs on various blockchains.
 
