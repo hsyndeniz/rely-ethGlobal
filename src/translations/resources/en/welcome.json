@@ -1,0 +1,41 @@
+{
+  "title": "Rely",
+  "subtitle": "The $t(common:appName.full)",
+  "agree": "By continuing, you agree to the ",
+  "terms": "Terms of Service and Privacy Policy",
+  "wallet": {
+    "title": "Choose your Wallet Setup",
+    "description": "Start Fresh or Bring an Existing Wallet",
+    "create": "Create Wallet",
+    "import": "Import Wallet"
+  },
+  "import": {
+    "title": "Import from Seed",
+    "description": "Enter your 12, 15, 18, 21, 24 words seed phrase. \n Separate each word with a single space."
+  },
+  "password": {
+    "title": "Password",
+    "create": "Create a Password",
+    "confirm": "Confirm Password",
+    "signInWith": "Sign in with",
+    "hint": "Your password will not be stored anywhere but your device. You will need this password to access your wallet."
+  },
+  "mnemonic": {
+    "title": "Secret Recovery Phrase",
+    "description": "Write down the secret words in order. \n This is the only way to recover your wallet.",
+  },
+  "permissions": {
+    "hint": "Get important Updates and Alerts",
+    "allow": "Allow Notifications",
+    "enable": "Enable Notifications"
+  },
+  "biometrics": {
+    "title": "Enable {{biometryType}}",
+    "description": "Enable {{biometryType}} authentication to protect your wallet and quickly access your wallet.",
+  },
+  "getStarted": {
+    "title": "Get Started",
+    "subtitle": "Your Wallet is Ready to Roll",
+    "description": "Get started on your journey by exploring the app."
+  }
+}

@@ -1,0 +1,27 @@
+# 🔗 Links:
+# Source file: https://github.com/obytes/react-native-template-obytes/blob/master/.github/actions/setup-node/action.yml
+# Composite actions docs: https://docs.github.com/en/actions/creating-actions/creating-a-composite-action
+
+# ✍️ Description:
+# This is a composite action, which means it can be used in other actions.
+# It is used in almost all workflows to set up the environment and install dependencies.
+# Updating  the package manager or Node version here will be reflected in all workflows.
+
+# 👀 Example usage:
+#       - name : 📦 Setup Node + Yarn + install deps
+#         uses: ./.github/actions/setup-node
+
+name: 'Setup  Node + Yarn + Install Dependencies'
+description: 'Setup  Node + Yarn + Install Dependencies'
+runs:
+  using: 'composite'
+  steps:
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 18
+    - name: 📦 Enable Yarn
+      run: corepack enable
+      shell: bash
+    - name: 📦 Install Project Dependencies
+      run: yarn install
+      shell: bash
