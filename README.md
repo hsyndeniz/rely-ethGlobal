@@ -2,20 +2,21 @@
 
 ## About The Project
 
-Rely Wallet is a mobile wallet that allows you to store, send, and receive tokens on any EVM compatible blockchain. Rely also supports Solana. You can use Rely to connect to any dApp on Ethereum.
+```
+🚀 Exciting News! 🚀
 
-- Send and receive tokens on any EVM compatible blockchains.
-- Connect to any dApp on Ethereum.
-- View your transaction history on various blockchains.
-- View and manage your NFTs on various blockchains.
+We are thrilled to announce that we've received two prestigious awards during the recent hackathon:
 
-Rely is completely open source and free to use. Rely is built with React Native and uses the Moralis Stream API to send push notifications to users when they make a transaction or receive any tokens. Rely uses AWS API Gateway, AWS Lambda, and AWS DynamoDB to store user data and send push notifications. Only the user's public address and unique device ID are stored in the database. The user's private key is never stored on the server. Our Lambda functions are written in Node.js and the Lambda functions are open source and can be found [here](https://github.com/hsyndeniz/rely-lambda-functions).
+🏆 "Merhaba Push Protocol Award" from Push Protocol
+🌟 "Best Social Experience Award" from Lens Protocol
 
-## Screenshots
+These awards are a testament to the dedication and hard work of our team at Rely. We're committed to delivering top-notch user experiences in the blockchain space.
+```
 
-<div align="center" style="width: auto; display: flex; flex-wrap: wrap; justify-content: center;">
+Elevate your web3 experience with seamless integration of best protocols. Manage your digital assets effortlessly while staying connected with friends and communities. Experience the future of finance with Rely!
 
-</div>
+Rely Wallet is your all-in-one solution for a superior crypto experience. Our user-centric design ensures managing your digital assets is a breeze. Plus, we've seamlessly integrated Lens Protocol for a dynamic social feed, fostering connections within the crypto community. Stay in the loop with Push Protocol for instant updates and easy communication. With WalletConnect, exploring decentralized apps has never been easier. Elevate your crypto journey with Rely today!
+
 
 ## Getting Started
 
